@@ -15,7 +15,7 @@ function Ragister() {
     <div className="min-h-screen xl:flex">
       <div className="left max-w-[100%]">
         <div className="h-full w-full bg-black/70">
-          <div className="py-[2rem] h-full px-[3rem] flex flex-col justify-between">
+          <div className="py-[2rem] h-full px-[1rem] sm:px-[3rem] flex flex-col justify-between">
             {/* NAVBAR */}
             <nav className="relative p-2">
               <img src="images/cooasis.svg" alt="" />
