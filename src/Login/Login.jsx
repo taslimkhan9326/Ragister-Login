@@ -83,7 +83,7 @@ function Login() {
           Sign up
         </button>
       </p>
-      <p className="text-[14px] 2xl:text-[18px] p-[0.5rem] text-[#FFF5D9]">
+      <p className="mb-[1.2rem] sm:mb-0 text-[14px] 2xl:text-[18px] p-[0.5rem] text-[#FFF5D9]">
         <span>By creating an account you agree with our </span>
         <span className="underline cursor-pointer">Terms of Service, </span>
         <span className="underline cursor-pointer">Privacy Policy, </span>
