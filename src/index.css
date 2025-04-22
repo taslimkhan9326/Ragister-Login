@@ -125,7 +125,7 @@ body {
 }
 
 .left {
-  background-image: url("images/businessBg.svg");
+  background-image: url("/images/businessBg.svg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
